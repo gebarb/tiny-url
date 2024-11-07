@@ -1,0 +1,5 @@
+{
+  "SQLALCHEMY_DATABASE_URI": "sqlite:///turl.db",
+  "BASE_DOMAIN": "http://127.0.0.1:8081",
+  "DEBUG": true
+}
